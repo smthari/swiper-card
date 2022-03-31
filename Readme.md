@@ -12,7 +12,7 @@ Tutorial : [Tutorialurl](https://frontendsprojects.teachable.com/courses/fronten
 ---
 
 ### Project Brief
-#### In this tutorial we’re going to learn how to create a cool Swiper Card using html css and javascript with the dark light mode functionality \ The Swiper Card we’ll build in this tutorial will be pretty cool.  \ a user can add or remove and todo by entering enter after filling todo form and delete todo by clicking delete icon , and mark todo complete by clicking circle 
+#### In this tutorial we’re going to learn how to create a swiper card using html css and swiper javascript library
 
 # Building project
 > ### Before building project init your project as a public repo 
