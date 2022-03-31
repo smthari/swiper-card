@@ -7,7 +7,7 @@ Project: Swiper Card\
 Stack: HTML & CSS\
 Level: Beginner\
 Demo : [Demo](https://swiper-card.netlify.app/)\
-Tutorial : [Tutorialurl](https://frontendsprojects.teachable.com/courses/frontend-projects-tutorial/lectures/38675580)
+Tutorial : [Tutorialurl](https://frontendsprojects.teachable.com/courses/frontend-projects-tutorial/lectures/39114309)
 
 ---
 
